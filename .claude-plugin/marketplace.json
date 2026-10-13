@@ -1,0 +1,11 @@
+{
+  "name": "web-design-skills",
+  "owner": { "name": "Mark" },
+  "plugins": [
+    {
+      "name": "web-design-skills",
+      "source": "./",
+      "description": "45 skills for website design, animation and 3D."
+    }
+  ]
+}

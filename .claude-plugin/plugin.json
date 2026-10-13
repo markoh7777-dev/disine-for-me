@@ -1,0 +1,7 @@
+{
+  "name": "web-design-skills",
+  "description": "45 skills for website design: taste, UI/UX rules, animation (GSAP, Motion, Lottie…), 3D (Three.js, R3F, Spline), design process and pre-launch audit.",
+  "version": "1.0.0",
+  "author": { "name": "Mark" },
+  "skills": "./.claude/skills"
+}
